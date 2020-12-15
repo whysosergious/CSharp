@@ -1,0 +1,9 @@
+D:\work\csharp\csharp\network\UDPHost\bin\Debug\UDPHost.exe.config
+D:\work\csharp\csharp\network\UDPHost\bin\Debug\UDPHost.exe
+D:\work\csharp\csharp\network\UDPHost\bin\Debug\UDPHost.pdb
+D:\work\csharp\csharp\network\UDPHost\obj\Debug\UDPHost.csprojAssemblyReference.cache
+D:\work\csharp\csharp\network\UDPHost\obj\Debug\UDPHost.UPDHost.resources
+D:\work\csharp\csharp\network\UDPHost\obj\Debug\UDPHost.Properties.Resources.resources
+D:\work\csharp\csharp\network\UDPHost\obj\Debug\UDPHost.csproj.GenerateResource.cache
+D:\work\csharp\csharp\network\UDPHost\obj\Debug\UDPHost.exe
+D:\work\csharp\csharp\network\UDPHost\obj\Debug\UDPHost.pdb

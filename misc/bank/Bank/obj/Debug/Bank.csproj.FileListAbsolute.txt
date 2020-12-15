@@ -1,0 +1,9 @@
+D:\work\csharp\csharp\bank\Bank\bin\Debug\Bank.exe.config
+D:\work\csharp\csharp\bank\Bank\bin\Debug\Bank.exe
+D:\work\csharp\csharp\bank\Bank\bin\Debug\Bank.pdb
+D:\work\csharp\csharp\bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+D:\work\csharp\csharp\bank\Bank\obj\Debug\Bank.xrsBank.resources
+D:\work\csharp\csharp\bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\work\csharp\csharp\bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+D:\work\csharp\csharp\bank\Bank\obj\Debug\Bank.exe
+D:\work\csharp\csharp\bank\Bank\obj\Debug\Bank.pdb

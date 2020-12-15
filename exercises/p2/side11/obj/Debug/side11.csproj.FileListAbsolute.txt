@@ -1,0 +1,9 @@
+D:\work\C#\p2\side11\bin\Debug\side11.exe.config
+D:\work\C#\p2\side11\bin\Debug\side11.exe
+D:\work\C#\p2\side11\bin\Debug\side11.pdb
+D:\work\C#\p2\side11\obj\Debug\side11.csprojAssemblyReference.cache
+D:\work\C#\p2\side11\obj\Debug\side11.Form1.resources
+D:\work\C#\p2\side11\obj\Debug\side11.Properties.Resources.resources
+D:\work\C#\p2\side11\obj\Debug\side11.csproj.GenerateResource.cache
+D:\work\C#\p2\side11\obj\Debug\side11.exe
+D:\work\C#\p2\side11\obj\Debug\side11.pdb

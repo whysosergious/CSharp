@@ -1,0 +1,11 @@
+D:\work\C#\exerciseThree\exerciseThree\obj\Debug\netcoreapp3.0\exerciseThree.csprojAssemblyReference.cache
+D:\work\C#\exerciseThree\exerciseThree\obj\Debug\netcoreapp3.0\exerciseThree.AssemblyInfoInputs.cache
+D:\work\C#\exerciseThree\exerciseThree\obj\Debug\netcoreapp3.0\exerciseThree.AssemblyInfo.cs
+D:\work\C#\exerciseThree\exerciseThree\bin\Debug\netcoreapp3.0\exerciseThree.exe
+D:\work\C#\exerciseThree\exerciseThree\bin\Debug\netcoreapp3.0\exerciseThree.deps.json
+D:\work\C#\exerciseThree\exerciseThree\bin\Debug\netcoreapp3.0\exerciseThree.runtimeconfig.json
+D:\work\C#\exerciseThree\exerciseThree\bin\Debug\netcoreapp3.0\exerciseThree.runtimeconfig.dev.json
+D:\work\C#\exerciseThree\exerciseThree\bin\Debug\netcoreapp3.0\exerciseThree.dll
+D:\work\C#\exerciseThree\exerciseThree\bin\Debug\netcoreapp3.0\exerciseThree.pdb
+D:\work\C#\exerciseThree\exerciseThree\obj\Debug\netcoreapp3.0\exerciseThree.dll
+D:\work\C#\exerciseThree\exerciseThree\obj\Debug\netcoreapp3.0\exerciseThree.pdb

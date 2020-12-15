@@ -1,0 +1,13 @@
+D:\work\csharp\csharp\ContactLists\bin\Release\ContactLists.exe.config
+D:\work\csharp\csharp\ContactLists\bin\Release\ContactLists.exe.manifest
+D:\work\csharp\csharp\ContactLists\bin\Release\ContactLists.application
+D:\work\csharp\csharp\ContactLists\bin\Release\ContactLists.exe
+D:\work\csharp\csharp\ContactLists\bin\Release\ContactLists.pdb
+D:\work\csharp\csharp\ContactLists\obj\Release\ContactLists.csprojAssemblyReference.cache
+D:\work\csharp\csharp\ContactLists\obj\Release\ContactLists.ContactList.resources
+D:\work\csharp\csharp\ContactLists\obj\Release\ContactLists.Properties.Resources.resources
+D:\work\csharp\csharp\ContactLists\obj\Release\ContactLists.csproj.GenerateResource.cache
+D:\work\csharp\csharp\ContactLists\obj\Release\ContactLists.exe.manifest
+D:\work\csharp\csharp\ContactLists\obj\Release\ContactLists.application
+D:\work\csharp\csharp\ContactLists\obj\Release\ContactLists.exe
+D:\work\csharp\csharp\ContactLists\obj\Release\ContactLists.pdb

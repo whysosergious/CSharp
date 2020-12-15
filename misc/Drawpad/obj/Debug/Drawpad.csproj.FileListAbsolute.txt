@@ -1,0 +1,9 @@
+D:\work\csharp\csharp\Drawpad\bin\Debug\Drawpad.exe.config
+D:\work\csharp\csharp\Drawpad\bin\Debug\Drawpad.exe
+D:\work\csharp\csharp\Drawpad\bin\Debug\Drawpad.pdb
+D:\work\csharp\csharp\Drawpad\obj\Debug\Drawpad.csprojAssemblyReference.cache
+D:\work\csharp\csharp\Drawpad\obj\Debug\Drawpad.Drawpad.resources
+D:\work\csharp\csharp\Drawpad\obj\Debug\Drawpad.Properties.Resources.resources
+D:\work\csharp\csharp\Drawpad\obj\Debug\Drawpad.csproj.GenerateResource.cache
+D:\work\csharp\csharp\Drawpad\obj\Debug\Drawpad.exe
+D:\work\csharp\csharp\Drawpad\obj\Debug\Drawpad.pdb

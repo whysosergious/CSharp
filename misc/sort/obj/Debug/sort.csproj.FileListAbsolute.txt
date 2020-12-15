@@ -1,0 +1,9 @@
+D:\work\csharp\csharp\sort\obj\Debug\sort.csprojAssemblyReference.cache
+D:\work\csharp\csharp\sort\obj\Debug\sort.Properties.Resources.resources
+D:\work\csharp\csharp\sort\obj\Debug\sort.Sorting.resources
+D:\work\csharp\csharp\sort\obj\Debug\sort.csproj.GenerateResource.cache
+D:\work\csharp\csharp\sort\bin\Debug\sort.exe.config
+D:\work\csharp\csharp\sort\bin\Debug\sort.exe
+D:\work\csharp\csharp\sort\bin\Debug\sort.pdb
+D:\work\csharp\csharp\sort\obj\Debug\sort.exe
+D:\work\csharp\csharp\sort\obj\Debug\sort.pdb

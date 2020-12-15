@@ -1,0 +1,9 @@
+D:\work\csharp\csharp\Clipart\bin\Debug\Clipart.exe.config
+D:\work\csharp\csharp\Clipart\bin\Debug\Clipart.exe
+D:\work\csharp\csharp\Clipart\bin\Debug\Clipart.pdb
+D:\work\csharp\csharp\Clipart\obj\Debug\Clipart.csprojAssemblyReference.cache
+D:\work\csharp\csharp\Clipart\obj\Debug\Clipart.Clipart.resources
+D:\work\csharp\csharp\Clipart\obj\Debug\Clipart.Properties.Resources.resources
+D:\work\csharp\csharp\Clipart\obj\Debug\Clipart.csproj.GenerateResource.cache
+D:\work\csharp\csharp\Clipart\obj\Debug\Clipart.exe
+D:\work\csharp\csharp\Clipart\obj\Debug\Clipart.pdb

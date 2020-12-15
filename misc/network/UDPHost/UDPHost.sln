@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPHost", "UDPHost.csproj", "{34742BD0-B522-4D2D-89BE-7833020F1722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34742BD0-B522-4D2D-89BE-7833020F1722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34742BD0-B522-4D2D-89BE-7833020F1722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34742BD0-B522-4D2D-89BE-7833020F1722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34742BD0-B522-4D2D-89BE-7833020F1722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72CB7C53-4132-49B5-9B52-DEBEEF594A2C}
+	EndGlobalSection
+EndGlobal

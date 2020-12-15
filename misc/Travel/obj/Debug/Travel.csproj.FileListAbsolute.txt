@@ -1,0 +1,16 @@
+D:\work\csharp\csharp\Travel\bin\Debug\cities.mdf
+D:\work\csharp\csharp\Travel\bin\Debug\cities_log.ldf
+D:\work\csharp\csharp\Travel\bin\Debug\Travel.exe.config
+D:\work\csharp\csharp\Travel\bin\Debug\Travel.exe
+D:\work\csharp\csharp\Travel\bin\Debug\Travel.pdb
+D:\work\csharp\csharp\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+D:\work\csharp\csharp\Travel\obj\Debug\Travel.Travel.resources
+D:\work\csharp\csharp\Travel\obj\Debug\Travel.Properties.Resources.resources
+D:\work\csharp\csharp\Travel\obj\Debug\Travel.csproj.GenerateResource.cache
+D:\work\csharp\csharp\Travel\obj\Debug\Travel.exe
+D:\work\csharp\csharp\Travel\obj\Debug\Travel.pdb
+D:\work\csharp\csharp\Travel\bin\Debug\EntityFramework.dll
+D:\work\csharp\csharp\Travel\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\csharp\csharp\Travel\bin\Debug\EntityFramework.xml
+D:\work\csharp\csharp\Travel\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\csharp\csharp\Travel\obj\Debug\Travel.csproj.CopyComplete

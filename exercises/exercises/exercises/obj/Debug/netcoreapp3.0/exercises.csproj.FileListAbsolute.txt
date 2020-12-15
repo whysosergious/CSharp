@@ -1,0 +1,11 @@
+D:\work\C#\exercises\exercises\bin\Debug\netcoreapp3.0\exercises.exe
+D:\work\C#\exercises\exercises\bin\Debug\netcoreapp3.0\exercises.deps.json
+D:\work\C#\exercises\exercises\bin\Debug\netcoreapp3.0\exercises.runtimeconfig.json
+D:\work\C#\exercises\exercises\bin\Debug\netcoreapp3.0\exercises.runtimeconfig.dev.json
+D:\work\C#\exercises\exercises\bin\Debug\netcoreapp3.0\exercises.dll
+D:\work\C#\exercises\exercises\bin\Debug\netcoreapp3.0\exercises.pdb
+D:\work\C#\exercises\exercises\obj\Debug\netcoreapp3.0\exercises.csprojAssemblyReference.cache
+D:\work\C#\exercises\exercises\obj\Debug\netcoreapp3.0\exercises.AssemblyInfoInputs.cache
+D:\work\C#\exercises\exercises\obj\Debug\netcoreapp3.0\exercises.AssemblyInfo.cs
+D:\work\C#\exercises\exercises\obj\Debug\netcoreapp3.0\exercises.dll
+D:\work\C#\exercises\exercises\obj\Debug\netcoreapp3.0\exercises.pdb

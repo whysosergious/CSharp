@@ -1,0 +1,16 @@
+D:\work\csharp\csharp\databases\bin\Debug\testDB.mdf
+D:\work\csharp\csharp\databases\bin\Debug\testDB_log.ldf
+D:\work\csharp\csharp\databases\bin\Debug\databases.exe.config
+D:\work\csharp\csharp\databases\bin\Debug\databases.exe
+D:\work\csharp\csharp\databases\bin\Debug\databases.pdb
+D:\work\csharp\csharp\databases\obj\Debug\databases.csprojAssemblyReference.cache
+D:\work\csharp\csharp\databases\obj\Debug\databases.Databases.resources
+D:\work\csharp\csharp\databases\obj\Debug\databases.Properties.Resources.resources
+D:\work\csharp\csharp\databases\obj\Debug\databases.csproj.GenerateResource.cache
+D:\work\csharp\csharp\databases\obj\Debug\databases.exe
+D:\work\csharp\csharp\databases\obj\Debug\databases.pdb
+D:\work\csharp\csharp\databases\bin\Debug\EntityFramework.dll
+D:\work\csharp\csharp\databases\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\csharp\csharp\databases\bin\Debug\EntityFramework.xml
+D:\work\csharp\csharp\databases\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\csharp\csharp\databases\obj\Debug\databases.csproj.CopyComplete

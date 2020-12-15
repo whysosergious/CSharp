@@ -1,0 +1,13 @@
+D:\work\C#\exerciseFour\exerciseFour\bin\Debug\netcoreapp3.0\exerciseFour.exe
+D:\work\C#\exerciseFour\exerciseFour\bin\Debug\netcoreapp3.0\exerciseFour.deps.json
+D:\work\C#\exerciseFour\exerciseFour\bin\Debug\netcoreapp3.0\exerciseFour.runtimeconfig.json
+D:\work\C#\exerciseFour\exerciseFour\bin\Debug\netcoreapp3.0\exerciseFour.runtimeconfig.dev.json
+D:\work\C#\exerciseFour\exerciseFour\bin\Debug\netcoreapp3.0\exerciseFour.dll
+D:\work\C#\exerciseFour\exerciseFour\bin\Debug\netcoreapp3.0\exerciseFour.pdb
+D:\work\C#\exerciseFour\exerciseFour\obj\Debug\netcoreapp3.0\exerciseFour.csprojAssemblyReference.cache
+D:\work\C#\exerciseFour\exerciseFour\obj\Debug\netcoreapp3.0\exerciseFour.AssemblyInfoInputs.cache
+D:\work\C#\exerciseFour\exerciseFour\obj\Debug\netcoreapp3.0\exerciseFour.AssemblyInfo.cs
+D:\work\C#\exerciseFour\exerciseFour\obj\Debug\netcoreapp3.0\exerciseFour.dll
+D:\work\C#\exerciseFour\exerciseFour\obj\Debug\netcoreapp3.0\exerciseFour.pdb
+D:\work\C#\exerciseFour\exerciseFour\bin\Debug\netcoreapp3.0\System.Windows.Forms.dll
+D:\work\C#\exerciseFour\exerciseFour\obj\Debug\netcoreapp3.0\exerciseFour.csproj.CopyComplete

@@ -1,0 +1,11 @@
+D:\work\C#\exerciseTwo\exerciseTwo\bin\Debug\netcoreapp3.0\exerciseTwo.exe
+D:\work\C#\exerciseTwo\exerciseTwo\bin\Debug\netcoreapp3.0\exerciseTwo.deps.json
+D:\work\C#\exerciseTwo\exerciseTwo\bin\Debug\netcoreapp3.0\exerciseTwo.runtimeconfig.json
+D:\work\C#\exerciseTwo\exerciseTwo\bin\Debug\netcoreapp3.0\exerciseTwo.runtimeconfig.dev.json
+D:\work\C#\exerciseTwo\exerciseTwo\bin\Debug\netcoreapp3.0\exerciseTwo.dll
+D:\work\C#\exerciseTwo\exerciseTwo\bin\Debug\netcoreapp3.0\exerciseTwo.pdb
+D:\work\C#\exerciseTwo\exerciseTwo\obj\Debug\netcoreapp3.0\exerciseTwo.csprojAssemblyReference.cache
+D:\work\C#\exerciseTwo\exerciseTwo\obj\Debug\netcoreapp3.0\exerciseTwo.AssemblyInfoInputs.cache
+D:\work\C#\exerciseTwo\exerciseTwo\obj\Debug\netcoreapp3.0\exerciseTwo.AssemblyInfo.cs
+D:\work\C#\exerciseTwo\exerciseTwo\obj\Debug\netcoreapp3.0\exerciseTwo.dll
+D:\work\C#\exerciseTwo\exerciseTwo\obj\Debug\netcoreapp3.0\exerciseTwo.pdb

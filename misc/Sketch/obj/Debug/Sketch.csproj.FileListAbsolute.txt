@@ -1,0 +1,9 @@
+D:\work\csharp\csharp\Sketch\bin\Debug\Sketch.exe.config
+D:\work\csharp\csharp\Sketch\bin\Debug\Sketch.exe
+D:\work\csharp\csharp\Sketch\bin\Debug\Sketch.pdb
+D:\work\csharp\csharp\Sketch\obj\Debug\Sketch.csprojAssemblyReference.cache
+D:\work\csharp\csharp\Sketch\obj\Debug\Sketch.Form1.resources
+D:\work\csharp\csharp\Sketch\obj\Debug\Sketch.Properties.Resources.resources
+D:\work\csharp\csharp\Sketch\obj\Debug\Sketch.csproj.GenerateResource.cache
+D:\work\csharp\csharp\Sketch\obj\Debug\Sketch.exe
+D:\work\csharp\csharp\Sketch\obj\Debug\Sketch.pdb

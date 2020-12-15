@@ -1,0 +1,9 @@
+D:\work\csharp\csharp\openAndSave\bin\Debug\openAndSave.exe.config
+D:\work\csharp\csharp\openAndSave\bin\Debug\openAndSave.exe
+D:\work\csharp\csharp\openAndSave\bin\Debug\openAndSave.pdb
+D:\work\csharp\csharp\openAndSave\obj\Debug\openAndSave.csprojAssemblyReference.cache
+D:\work\csharp\csharp\openAndSave\obj\Debug\openAndSave.openAndSave.resources
+D:\work\csharp\csharp\openAndSave\obj\Debug\openAndSave.Properties.Resources.resources
+D:\work\csharp\csharp\openAndSave\obj\Debug\openAndSave.csproj.GenerateResource.cache
+D:\work\csharp\csharp\openAndSave\obj\Debug\openAndSave.exe
+D:\work\csharp\csharp\openAndSave\obj\Debug\openAndSave.pdb

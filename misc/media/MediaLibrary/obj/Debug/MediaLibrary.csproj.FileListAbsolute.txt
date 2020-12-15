@@ -1,0 +1,9 @@
+D:\work\csharp\csharp\media\MediaLibrary\obj\Debug\MediaLibrary.csprojAssemblyReference.cache
+D:\work\csharp\csharp\media\MediaLibrary\obj\Debug\MediaLibrary.MediaLibrary.resources
+D:\work\csharp\csharp\media\MediaLibrary\obj\Debug\MediaLibrary.Properties.Resources.resources
+D:\work\csharp\csharp\media\MediaLibrary\obj\Debug\MediaLibrary.csproj.GenerateResource.cache
+D:\work\csharp\csharp\media\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+D:\work\csharp\csharp\media\MediaLibrary\bin\Debug\MediaLibrary.exe
+D:\work\csharp\csharp\media\MediaLibrary\bin\Debug\MediaLibrary.pdb
+D:\work\csharp\csharp\media\MediaLibrary\obj\Debug\MediaLibrary.exe
+D:\work\csharp\csharp\media\MediaLibrary\obj\Debug\MediaLibrary.pdb

@@ -1,0 +1,9 @@
+D:\work\csharp\csharp\shoppingList\bin\Debug\shoppingList.exe.config
+D:\work\csharp\csharp\shoppingList\bin\Debug\shoppingList.exe
+D:\work\csharp\csharp\shoppingList\bin\Debug\shoppingList.pdb
+D:\work\csharp\csharp\shoppingList\obj\Debug\shoppingList.csprojAssemblyReference.cache
+D:\work\csharp\csharp\shoppingList\obj\Debug\shoppingList.shoppingList.resources
+D:\work\csharp\csharp\shoppingList\obj\Debug\shoppingList.Properties.Resources.resources
+D:\work\csharp\csharp\shoppingList\obj\Debug\shoppingList.csproj.GenerateResource.cache
+D:\work\csharp\csharp\shoppingList\obj\Debug\shoppingList.exe
+D:\work\csharp\csharp\shoppingList\obj\Debug\shoppingList.pdb

@@ -1,0 +1,11 @@
+D:\work\C#\exerciseFive\exerciseFive\bin\Debug\netcoreapp3.0\exerciseFive.exe
+D:\work\C#\exerciseFive\exerciseFive\bin\Debug\netcoreapp3.0\exerciseFive.deps.json
+D:\work\C#\exerciseFive\exerciseFive\bin\Debug\netcoreapp3.0\exerciseFive.runtimeconfig.json
+D:\work\C#\exerciseFive\exerciseFive\bin\Debug\netcoreapp3.0\exerciseFive.runtimeconfig.dev.json
+D:\work\C#\exerciseFive\exerciseFive\bin\Debug\netcoreapp3.0\exerciseFive.dll
+D:\work\C#\exerciseFive\exerciseFive\bin\Debug\netcoreapp3.0\exerciseFive.pdb
+D:\work\C#\exerciseFive\exerciseFive\obj\Debug\netcoreapp3.0\exerciseFive.csprojAssemblyReference.cache
+D:\work\C#\exerciseFive\exerciseFive\obj\Debug\netcoreapp3.0\exerciseFive.AssemblyInfoInputs.cache
+D:\work\C#\exerciseFive\exerciseFive\obj\Debug\netcoreapp3.0\exerciseFive.AssemblyInfo.cs
+D:\work\C#\exerciseFive\exerciseFive\obj\Debug\netcoreapp3.0\exerciseFive.dll
+D:\work\C#\exerciseFive\exerciseFive\obj\Debug\netcoreapp3.0\exerciseFive.pdb
